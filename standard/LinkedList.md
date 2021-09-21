@@ -32,7 +32,7 @@ head = temp
 ```java
 Vertex temp1 = head
 while (--k != 0)
-    temp1 = tem1.next
+    temp1 = temp1.next
 
 Vertex temp2 = temp1.next
 Vertex newVertex = new Vertex(input)
